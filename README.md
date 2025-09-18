@@ -29,6 +29,7 @@ Alteración de un canal de la imagen (por ejemplo R, G o B) para observar los ef
 
 ### 🔍 TAREA 5 — Destacar píxel más claro y más oscuro
 Detección y marcado (por ejemplo con un círculo o rectángulo) del **píxel más claro** y del **píxel más oscuro** en una imagen de entrada, mostrando coordenadas y valores RGB/intenidad.
+
 <img width="512" height="412" alt="image" src="https://github.com/user-attachments/assets/62bb21aa-322b-4a34-84e0-f497b88f59ef" />
 
 
