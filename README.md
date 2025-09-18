@@ -44,7 +44,7 @@ Asignatura: **Visión por Computador**
 ## ⚙️ Requisitos de instalación
 Se recomienda **Python 3.8+**. 
 
-## 🔎 Fuentes (formato APA — corto)
+## 🔎 Fuentes 
 
 - OpenAI. (2024). *ChatGPT* [Modelo de lenguaje]. https://chat.openai.com/  
   (Asistencia en la redacción y organización del README.)
